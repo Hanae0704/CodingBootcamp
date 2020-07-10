@@ -1,0 +1,9 @@
+Session 4 - Homework 3
+
+
+Single page app differs from traditional multipage website in a way that 
+SPA does not involved navigating to an entirely new page, 
+while traditional multipage website navigates to a new page. 
+
+In other words, SPA pages load within the same page 
+while traditional multipage websites do not and go to an entirely new page. 
