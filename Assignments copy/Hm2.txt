@@ -1,0 +1,6 @@
+Session 3 - Homework 2
+
+Separation of Concerns is a design principle which separates a computer program to separate sections. 
+In relationship to HTML, CSS, and JavaScript, for example, designing and styling can be done by HTML and programming by JS. 
+However, let CSS do the styling task separates sections and makes everything clear. 
+HTML to create contents, CSS to style, and JS to program can separate sections that each section addresses a separate concern. 

@@ -1,0 +1,8 @@
+Session 5 - Homework 4
+
+A web desiner designs and styles the website by using software like Photoshop to create a mock design and customize the visual element.
+A front end developer also designs the website, but using HTML, CSS, and JavaScript to code and create the web pages where users actually see.
+A back end developer programs the website using programming languages to code on the servers and databases.
+To conclude, a web desiner styles the website by creating the visual element, 
+and a front end developer codes the style and actually build a website, 
+and a back end developer programs the website and connects to server.
