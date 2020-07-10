@@ -1,5 +1,0 @@
-Session 2 - Homework 1
-
-HTML is a markup language that creates a web page. 
-CSS is a style sheet language that styles a page created by HTML.
-JavaScript is a programming language that builds website with many functions, such as calculation or popup window. 
