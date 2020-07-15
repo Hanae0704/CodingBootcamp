@@ -1,0 +1,13 @@
+Session 7 - Homework 6
+
+Aglie means for a company is to be able to 
+speed up every process to sucess as a business.
+The purpose of using Aglie is to allow developers to
+provide a fast delivery of high-quality work.
+Pros of using Agile is offering a lightweight framework
+that develop softwares with well-maintained and efficient way.
+It also have a tracking ability that is easy to 
+utilize with teamwork related tasks. 
+Cons of using Agile is that it is time-consuming. 
+It takes a lot of timeto learn and understand 
+using Agile.
