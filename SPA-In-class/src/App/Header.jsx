@@ -6,6 +6,8 @@ import {
     faHotTub,
 } from '@fortawesome/free-solid-svg-icons';
 
+import { mg } from '../common/mediaQueries.js';
+
 const Header = () => {
     
     return (
@@ -30,6 +32,14 @@ export default Header;
 const HeaderStyled = styled.header`
 background-color: teal;
 font-size: 30px;
+
+@media ${mg.tablet} {
+    background-color: pink;
+}
+
+@media ${mg.desktop} {
+    background-color: purple;
+}
 
 .row-container {
     display: flex;

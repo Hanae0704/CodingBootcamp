@@ -1,6 +1,8 @@
 import React from 'react';
 import styled from 'styled-components';
 
+import { mg } from '../common/mediaQueries.js';
+
 const Footer = () => {
     
     return (
@@ -14,6 +16,15 @@ export default Footer;
 
 
 const FooterStyled = styled.footer`
+
 background-color: teal;
 padding: 20px;
+
+        @media ${mg.tablet} {
+            color: pink;
+            
+        @media ${mg.desktop} {
+            color: purple;
+        }
+
 `;

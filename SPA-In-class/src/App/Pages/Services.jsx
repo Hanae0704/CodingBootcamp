@@ -1,17 +1,21 @@
 import React from 'react';
 import styled from 'styled-components';
+import Helmet from 'react-helmet';
 
-const Contact = () => {
+const Services = () => {
 
     return (
-        <ContactStyled className='Contact'>
-            Contact 
-        </ContactStyled>
+        <ServicesStyled className='Services'>
+            <Helmet>
+                <title>Services :: SPA</title>
+            </Helmet>
+            Services
+        </ServicesStyled>
     );
 }
 
-export default Contact;
+export default Services;
 
-const ContactStyled = styled.div`
+const ServicesStyled = styled.div`
     
 `;
