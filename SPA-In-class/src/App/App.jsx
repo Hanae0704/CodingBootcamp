@@ -27,11 +27,13 @@ return (
 export default App;
 
 const AppStyled = styled.div`
+
+text-align: center;
+
 .nested-wrapper {
     max-width:1200px;
     margin: auto;
-
-    outline: solid black 1px;
     padding: 10px;
 }
+
 `;

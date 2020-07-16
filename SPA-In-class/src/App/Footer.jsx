@@ -5,6 +5,17 @@ import { mg } from '../common/mediaQueries.js';
 
 const Footer = () => {
     
+    //How to get variable in JavaScript
+    
+    /*const myVariable = `LALALA`
+    console.log(myVariable);
+    
+    const function = () =>{
+    console.log(`Executing function);
+    }
+    
+    function();*/
+
     return (
             <FooterStyled>
                 <div className='nested-wrapper'>
@@ -17,14 +28,15 @@ export default Footer;
 
 const FooterStyled = styled.footer`
 
+text-align: center;
 background-color: teal;
 padding: 20px;
 
         @media ${mg.tablet} {
-            color: pink;
+            color: white;
             
         @media ${mg.desktop} {
-            color: purple;
+            color: black;
         }
 
 `;
