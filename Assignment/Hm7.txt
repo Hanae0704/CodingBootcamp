@@ -1,0 +1,29 @@
+Session 8 - Homework 7
+
+Project Manager:
+A project manager is in the field of project management 
+who have a responsibility to plan, manage, and execute the project. 
+
+Business Analyst:
+A business analyst is in a part of the business operation 
+who analyzes and work with information technology for the quality of services to improve. 
+
+Scrum Master:
+A scrum master is in Agile project management who makes work processes easier 
+by removing obstacles in the process of completion and achievement of goals. 
+
+UX designer:
+A UX designer is in the field of branding and designing products 
+who uses “User Experience” to make a product useful and usable for users. 
+
+Web Developer / Engineer:
+A web developer / engineer is in the filed of programming/coding 
+who develop and build websites using HTML, CSS, Javascript, etc. 
+
+Quality Assurance Tester:
+A QA tester is in a part of business operation who reviews and analyzes, 
+and executes a test system, and report if there is any technical issues. 
+
+DevOps:
+As DevOps stands for development and operations, DevOps is the practice of 
+operations and developments for engineers to design through the process of development to production. 
