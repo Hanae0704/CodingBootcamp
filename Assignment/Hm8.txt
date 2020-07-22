@@ -1,0 +1,19 @@
+Session 9 - Homework 8
+
+What is the difference between jpg, gif, png and SVG images?
+
+JPG:
+JPEG is used for photographs, that is loosy raster files. 
+Reduction of file size affects the image quality.
+
+GIF:
+GIF is used for motion/animated image, and not good use for photographs.
+
+PNG:
+PNG is best use for web and works well with line art images. 
+Unlike JPG, PNG file can be exported with a transparent background.
+
+SVG:
+As SVG is shorten for "scaleable Vector Graphic", 
+SVG is vector graphic image which is great for logo and line art. 
+Because SVG is not made from pixels, it can be resized without the loss of quality.

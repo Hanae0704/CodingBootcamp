@@ -28,12 +28,12 @@ export default App;
 
 const AppStyled = styled.div`
 
-text-align: center;
 
 .nested-wrapper {
     max-width:1200px;
     margin: auto;
     padding: 10px;
+    border: 1px solid black;
 }
 
 `;
