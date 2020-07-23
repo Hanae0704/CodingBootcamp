@@ -33,7 +33,6 @@ const AppStyled = styled.div`
     max-width:1200px;
     margin: auto;
     padding: 10px;
-    border: 1px solid black;
 }
 
 `;

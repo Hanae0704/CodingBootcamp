@@ -33,14 +33,6 @@ const HeaderStyled = styled.header`
 background-color: teal;
 font-size: 30px;
 
-@media ${mg.tablet} {
-    background-color: pink;
-}
-
-@media ${mg.desktop} {
-    background-color: purple;
-}
-
 .row-container {
     display: flex;
     justify-content: center;  

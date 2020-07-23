@@ -16,7 +16,12 @@ const Tabbed = () => {
 
     const renderTabs = () => {
         return tabItems.map((tabItem, idx) => {
-            return <Tab key={ idx } tabItem={ tabItem } chosenTabset={ chosenTabset }/>;
+            return <Tab 
+            key={ idx } 
+            tabItem={ tabItem } 
+            chosenTabset={ chosenTabset }
+            chosenTab={ chosenTab }
+            />;
         });
     }
 
