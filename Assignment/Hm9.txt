@@ -1,0 +1,15 @@
+Session 10 - Homework 9
+
+- What are testing environments?
+
+A test environment is a server that allows you to run the test system you have built.  
+it involves hardware and network configuration 
+which enables to create identical environments every time the system needs to be tested.
+
+- What is the difference between Local, Dev, QA and Production?
+
+・A Local environment is where to set up a copy of your website and test the application on a local machine. 
+・A QA environment is where to test a upgrade procedure against data, hardware, and software. 
+・A Production environment is where to ensure that the application is stable and runs the way it is expected to as in the real world in the production environment. 
+Daily production testing gives confidence to the developers that the application runs smoothly and hassle free. 
+・A Development environment is where you configure, customize, and use source control to build an image. 
