@@ -1,0 +1,6 @@
+Session 11 - Homework 10
+
+When images are used with alt text, is part of the HTML 
+because it has a important meaning to add alt attribute which needs to be a part of content. 
+When images are used as background, is part of the apperance/CSS 
+because it is not part of the content and is just an image displaying on screen. 

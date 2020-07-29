@@ -6,7 +6,6 @@ import {
     faHotTub,
 } from '@fortawesome/free-solid-svg-icons';
 
-import { mg } from '../common/mediaQueries.js';
 
 const Header = () => {
     
