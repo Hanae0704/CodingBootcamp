@@ -12,7 +12,7 @@ const Tabbed = () => {
 
     const [chosenTab, chosenTabset] = useState(tabItems[1]);
 
-    console.log('chosenTab', chosenTab);
+    // console.log('chosenTab', chosenTab);
 
     const renderTabs = () => {
         return tabItems.map((tabItem, idx) => {
