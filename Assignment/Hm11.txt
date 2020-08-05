@@ -1,3 +1,7 @@
 Session 12 - Homework 11
 
 What is considered the right size for an image or video asset?
+
+The right size for an image varies depends on when to use the image for. 
+For printing, images need to be 300px or more resolution to get a good quality. 
+For web uses, 72px resolution is okay, and increasing resolution size increases file size, so this has to be careful. 

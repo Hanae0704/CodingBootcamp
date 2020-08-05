@@ -1,0 +1,15 @@
+Session 13 - Homework 12
+
+The difference between IDs, Classes, and Tags are:
+Each element can have only one ID, and the ID cannot be shared with other elements on each page.
+However, Classes can be used on multiple elements, and multiple classes can be used on the same element.
+Tag, however, is used differently compared to ID or Class. 
+Tag creates something like label on element to specifies what each element is. 
+IDs and Classes are inside of Tags.
+
+'Specificity' play an important role in the selection of HTML elements in a way that 
+If there are two or more conflicting CSS codes that point to the same element, 
+the browser follows some rules to determine which one is most specific and therefore wins out.
+If there is element that points out h1 {color: red} and h1 {color: green}, 
+the latter will be excuted and applied as a style, and therefore, h1 {color: green} will be applied.
+

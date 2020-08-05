@@ -10,7 +10,7 @@ import Gallery from './Gallery/Gallery.jsx';
 
 const ServicesContainer = () => {
 
-    const [currCategory, currCategorySet] = useState(services.categories[2]);
+    const [currCategory, currCategorySet] = useState(services.categories[0]);
 
     // console.log('currCategory', currCategory);
 
