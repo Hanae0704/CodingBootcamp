@@ -1,6 +1,4 @@
 Session 14 - Homework 13
 
-Why is Web Accessibility important?
-
 Web Accessibility is important because the most of the websites are now designed and developed for anyone being able to access.
 Therefore, web developers should ensure that anyone especially who have disabilities can also access and use the webistes.
