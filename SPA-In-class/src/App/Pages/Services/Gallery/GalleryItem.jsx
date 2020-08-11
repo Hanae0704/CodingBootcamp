@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import styled from 'styled-components';
 
-import Lightbox from './Lightbox.jsx';
+import Lightbox from '../../../../common/Lightbox.jsx';
 
 const GalleryItem = ({item}) => {
 
@@ -23,7 +23,7 @@ const GalleryItem = ({item}) => {
             onClick={turnOn}/>
 
             <div className="title">{ item.title }</div>
-            <Lightbox show = {showLBox} hideAction={turnOff}>
+            <Lightbox show = {showLBox} hideAction={turnOff} /*width='340'*/>
             <img src={item.image} alt={item.title}/>
             <h3> {item.title} </h3>
             <div className="description">{ item.description }</div>
@@ -39,9 +39,11 @@ const GalleryItemStyled = styled.div`
     position: relative;
     margin: 20px;
 
-    border: solid 1px black;
+    border: solid 1px teal;
 
-    img { display: block; }
+    img { display: block; 
+        border: solid 5px teal;
+    }
 
     .category {
         position: absolute;
@@ -54,7 +56,6 @@ const GalleryItemStyled = styled.div`
         text-align: right;
     }
 
-
     .title {
         position: absolute;
         bottom: 0; right: 0; left: 0;
@@ -63,6 +64,21 @@ const GalleryItemStyled = styled.div`
 
         padding: 10px;
         font-size: 20px;
+    }
+
+    .Lightbox {
+        img {
+            border-color: teal;
+            max-width: 100%;
+        }
+        h3 {
+            font-size: 30px;
+            margin: 0px;
+        }
+        .description {
+            color: teal;
+            background-color: none;
+        }
     }
 
 `;
