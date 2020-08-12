@@ -37,12 +37,12 @@ const ContactStyled = styled.div`
     }
 
     .column1 {
-        background-color: teal;
+        background-color: yellow;
         width: 35%;
     }
 
     .column2 {
-        background-color: teal;
+        background-color: pink;
         width: 60%;
     }
 `;

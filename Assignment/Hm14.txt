@@ -1,0 +1,19 @@
+Session 15 - Homework 14
+
+- What is a CSS Preprocessor?
+
+Preprocessor is a computer program that changes data to 
+conform with the input requirements of another program.
+So, CSS Preprocessor is also a computer program which generates and extends 
+regluar CSS into CSS syntax by using some application.
+
+- What are some examples?
+I found that Sass (Syntactically Awesome Style Sheets) is one of the most popular CSS Preprocessor.
+
+- In React, what are styled components?
+In React, styled components are where to style the designs using CSS.
+
+- How do Styled Components violate separation of concerns?
+I am not sure if Styled Components violate separation of concerns 
+because Styled Component is to style the design created by HTML or JS, and it is where uses CSS. 
+I believe Styled Component is separating CSS from HTML and JS and making things clear.
