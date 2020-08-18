@@ -96,7 +96,7 @@ const ContactForm = () => {
         }
 
         API.post('/sendEmail', postData).then((result) => {
-            console.log(/*'result', result*/'LALALA');
+            console.log('result', result);
         });
     } 
     }
