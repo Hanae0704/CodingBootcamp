@@ -1,0 +1,11 @@
+Session 16 - Homework 15
+
+What is the difference between Web Hosts, Domains, and FTP?
+
+
+While Web Hosts are to provide spaces and accsess for websites 
+which allows customers/organizations to manage their website via the World Wide Web, 
+Domains are the identification string that is usually formed with a unique name or 
+a company name that appears after the @ sign in email address or after www. in web URL.
+FTP is shorten word for the File Transfer Protocol which is for 
+the trasnfer of computer files between clients and server on computer network.
