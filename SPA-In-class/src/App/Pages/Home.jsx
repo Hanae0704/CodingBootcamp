@@ -5,6 +5,7 @@ import Helmet from 'react-helmet';
 /* Component ---------------------------*/
 import Tabbed from './Tabbed/Tabbed.jsx';
 import Staff from './Staff/Staff.jsx';
+import Slideshow from './Slideshow/Slideshow.jsx';
 
 const Home = () => {
 
@@ -13,12 +14,13 @@ const Home = () => {
             <Helmet>
                 <title>Welcome :: SPA</title>
             </Helmet>
+            <Slideshow/>
             <div className="nested-wrapper">
                 <Tabbed/>
-                </div>
+            </div>
             <div className="nested-wrapper">
                 <Staff/>
-                </div>
+            </div>
         </HomeStyled>
     );
 }
