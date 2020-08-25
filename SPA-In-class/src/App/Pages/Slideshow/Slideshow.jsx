@@ -36,6 +36,9 @@ const Slideshow = () => {
 export default Slideshow;
 
 const SlideshowStyled = styled.div`
-    background-color: maroon;
-    color: white;
+
+    .carousel .slide .legend {
+        background-color: maroon;
+        color: white;
+    }
 `;
